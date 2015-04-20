@@ -153,7 +153,7 @@ Event handler triggered whenever a token is removed.
 
 Type: `Function`
 
-Event handler triggered whenever a token is removed.
+Event handler triggered whenever a token is added.
 
 #### props.filterOption
 
@@ -203,6 +203,6 @@ here are some general rules to follow for getting your PR accepted more quickly:
 
 - Break your changes into smaller, easy to understand commits.
 - Send separate PRs for each commit when possible.
-- Feel free to rebase, merge, and rewrite commits to make them more readible.
+- Feel free to rebase, merge, and rewrite commits to make them more readable.
 - Add comments explaining anything that's not painfully obvious.
-- Add unittests for your change if possible.
+- Add unit tests for your change if possible.
